@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxim Brinyuk</h1>
 <h3 align="center">Cybersecurity specialist</h3>
-<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/faf2fe74345669.5c2cfff17bb69.gif">
+<img align="right" width="400" src="https://www.captechu.edu/sites/default/files/cybersecurity_assessment_framework_protect.gif">
 - 🔭 I’m currently working on **Password manager**
 
 - 👯 I’m looking to collaborate on **cybersecurity projects**
