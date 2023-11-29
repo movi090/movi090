@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maxim Brinyuk</h1>
 <h3 align="center">Cybersecurity specialist</h3>
 <img align="right" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/93848094781896956/FC221E6DBDFDC3667D265C10C96B6A48E8F0A67B/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
-- 🔭 I’m currently working on **Password manager**
 
-- 👯 I’m looking to collaborate on **cybersecurity projects**
+- 🔭 I’m currently working on <b> Password manager </b>
 
-- 📫 How to reach me **maks4759@gmail.com**
+- 👯 I’m looking to collaborate on <b> cybersecurity projects </b>
+
+- 📫 How to reach me maks4759@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
